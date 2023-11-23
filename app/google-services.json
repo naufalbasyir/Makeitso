@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "991451017721",
+    "project_id": "naufalnativemobile-6f1ea",
+    "storage_bucket": "naufalnativemobile-6f1ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991451017721:android:2834621c34974882494d28",
+        "android_client_info": {
+          "package_name": "com.example.makeitso"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeU9WbTT52zJt9OuEtvdw5IduMqQlf7VE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
